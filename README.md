@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DogancanEmekUK
-- 👀 I’m interested in android development.
-- 🌱 I’m currently learning Kotlin and Android Studio.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android development.
+- 🌱 I’m currently a junior level developer, who specialises on Kotlin.
+- 📫 emekdogancan@gmail.com
 
 <!---
 DogancanEmekUK/DogancanEmekUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
