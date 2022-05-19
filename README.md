@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DogancanEmekUK
 - 👀 I’m interested in Android development.
-- 🌱 I’m currently a junior level developer, who specialises on Kotlin.
+- 🌱 I’m currently a junior level developer, who specialises in Kotlin.
 - 📫 emekdogancan@gmail.com
 
 <!---
