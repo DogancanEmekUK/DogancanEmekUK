@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DogancanEmekUK
-- 👀 I’m interested in Android development.
-- 🌱 I’m currently a junior level developer, who specialises in Kotlin.
+- 👋 Hi, I’m @DogancanEmekUK!
+- 🌱 I’m currently a software engineer apprentice at Google.
 - 📫 emekdogancan@gmail.com
 
 <!---
