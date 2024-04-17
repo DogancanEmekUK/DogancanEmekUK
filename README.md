@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DogancanEmekUK!
-- 🌱 I’m currently a software engineer apprentice at Google.
+- 🌱 I’m currently a software engineering apprentice at Google.
 - 📫 emekdogancan@gmail.com
 
 <!---
